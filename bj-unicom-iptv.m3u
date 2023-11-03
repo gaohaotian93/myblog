@@ -396,3 +396,5 @@ http://10.1.1.1:19936/rtp/239.3.1.186:8001
 http://10.1.1.1:19936/rtp/239.3.1.187:8001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京IPTV",聚鲨国际
 http://10.1.1.1:19936/rtp/239.3.1.188:8001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="lol",B站lol
+https://xy175x42x35x86xy.mcdn.bilivideo.cn:486/live-bvc/438443/live_504273_bs_2082422_prohevc/index.m3u8?expires=1698996180&len=0&oi=1874926413&pt=web&qn=10000&trid=1007874ff6bc60384c65b3d3ec1af4751db6&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha16&sign=f1f06d8206a08ae7f01d86358c737671&sk=05ed21abe012f81403fa0a36d56e89c2&flvsk=be067716907badb271975bf04a6bab84&p2p_type=1&sl=2&free_type=0&mid=19671313&sid=mcdn-ydzd-fjfz-cu-1003119&chash=1&bmt=1&sche=ban&bvchls=1&score=6&pp=rtmp&source=onetier&trace=a1&site=9fb58acbe1eab2e061107349b02e24ff&zoneid_l=151339010&sid_l=live_504273_bs_2082422_prohevc&zoneid_l=151339010&sid_l=stream_name_cold&order=1
